@@ -24,7 +24,7 @@ Every one of these tools provides a specific great feature. The idea behind enfo
 
 ## Note
 
-This is currently in an idea phase and some code will be following. Current roadmap is the following:
+This is currently just a idea, though some code will be following at some point. Current roadmap is the following:
  
  * Single box enforcement of configuration options
  * Flush out configuration protocol to be used
